@@ -68,3 +68,5 @@ public/css, public/js        gaya & skrip
 ```
 
 Catatan: data destinasi pada seeder (harga tiket, jam buka, koordinat) adalah **data contoh** dan perlu disesuaikan sebelum dipakai sungguhan.
+# ExploreLocal
+>>>>>>> 62427e106093d0a71bf53740fc59cf37b80b7522
